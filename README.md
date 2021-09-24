@@ -1,10 +1,7 @@
 ### Hi 👋, I'm Cesar 
-
-<br />
-
 Hi there, I'm **Cesar Augusto**, an **Application Developer** from Brazil🇧🇷.
 
-  <img height="388" align="right"  alt="GIF" src="https://i.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.webp" />
+  <img height="350" align="right"  alt="GIF" src="https://i.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.webp" />
 
 **Talking about Personal Stuffs:**
 
