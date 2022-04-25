@@ -5,7 +5,7 @@ Hi there, I'm **Cesar Augusto**, an **Application Developer** from Brazil🇧�
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Application Developer at IBM;
+- 👨🏽‍💻 I’m currently a Software Engineer at Dock;
 - 🌱 I’m currently learning React and NodeJS; 
 - 🤔 My interest is in full stack development with React and NodeJS;
 - 💼 I’m pursuing a Bachelor's degree in Industrial Engineering and another in System Analysis Development;
